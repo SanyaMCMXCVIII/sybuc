@@ -1,5 +1,5 @@
 # sybuc
-**BeatUp Converter from SM to SLK and vice versa**
+**BeatUp Converter from SM to SLK and vice versa**: Public Version
 
 ---
 
