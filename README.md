@@ -8,6 +8,12 @@ The main logic for this program is to create **BeatUp Charts**.
 
 ---
 
+## Video Guide
+
+[Video Guide (YouTube)](<https://youtu.be/OhK-tpzQR10>)
+
+---
+
 ## About the Program
 
 This program was written in **Python** and might not work on every computer.
