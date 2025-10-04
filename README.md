@@ -28,15 +28,15 @@ The conversion follows this mapping:
 
 | Arrow Vortex (SM) | Excel (SLK) | Notes |
 | :---: | :---: | :--- |
-| `1` | `7` | Standard Left-Middle |
-| `2` | `4` | Standard Up-Left |
-| `3` | `1` | Standard Up-Right |
-| `4` | `9` | Standard Down-Left |
-| `5` | `6` | Standard Down-Right |
-| `6` | `3` | Standard Right-Middle |
+| `1` | `7` |  |
+| `2` | `4` |  |
+| `3` | `1` |  |
+| `4` | `9` |  |
+| `5` | `6` |  |
+| `6` | `3` |  |
 | `7` | `Random` | Random Key array {1,4,7,3,6,9} |
 | `8` | `Space` | Space |
-| `M` | `Finish Move` | Mine on 8 key |
+| `M` | `Finish Move` | Mine on 8 key (Shift+8) |
 | `1 + 7` | | Random key on the **left side** |
 | `2 + 7` | | Random key on the **right side** |
 | `7 + 8` | | **Empty Finish Move** (no space) |
